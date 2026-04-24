@@ -1,0 +1,12 @@
+*.vst3
+*.component
+*.dll
+*.so
+Builds/
+DerivedData/
+*.xcodeproj/xcuserdata/
+JuceLibraryCode/
+.DS_Store
+build/
+Release/
+Debug/
